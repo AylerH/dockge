@@ -123,7 +123,7 @@ docker compose up -d
 # docker-compose up -d
 ```
 
-Dockge is now running on http://localhost:5001
+Dockge is now running on http://127.0.0.1:5001
 
 ### Advanced
 
